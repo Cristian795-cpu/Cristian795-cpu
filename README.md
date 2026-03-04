@@ -16,6 +16,10 @@
 </p>
 
 ---
+## 🚀 Sobre mí
+
+Soy un desarrollador web en formación con interés en crear aplicaciones interactivas y funcionales. Actualmente estudio **Programación Orientada a la Web** y me encanta trabajar en proyectos que resuelven problemas reales.
+---
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
