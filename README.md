@@ -18,7 +18,8 @@
 ---
 ## 🚀 Sobre mí
 
-Soy un desarrollador web en formación con interés en crear aplicaciones interactivas y funcionales. Actualmente estudio **Programación Orientada a la Web** y me encanta trabajar en proyectos que resuelven problemas reales.
+Soy Cristian Terán, estudiante de ing.Informática de la Universidad Catolica Andrés Bello desarrollador.
+Actualmente desarrollador Fullstack en formación con interés en crear aplicaciones interactivas y funcionales.
 ---
 <!--h1 without bottom border-->
 <div id="user-content-toc">
