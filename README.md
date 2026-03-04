@@ -17,7 +17,7 @@
 
 ## 🚀 Sobre mí
 
-<p>Soy Cristian Terán, estudiante de ing.Informática de la Universidad Catolica Andrés Bello desarrollador.
+<p>Soy Cristian Terán, estudiante de ing.Informática de la Universidad Catolica Andrés Bello.
 Actualmente desarrollador Fullstack en formación con interés en crear aplicaciones interactivas y funcionales.</p>
 ---
 <!--h1 without bottom border-->
